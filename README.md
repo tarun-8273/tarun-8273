@@ -68,6 +68,12 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 
 ###### ❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Tarun_Goyal-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/tarun-goyal-137899194/)](https://www.linkedin.com/in/tarun-goyal-137899194/) or [![Gmail Badge](https://img.shields.io/badge/-goyalt400@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:goyalt400@gmail.com)](mailto:goyalt400@gmail.com)
 
+###### ❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/tarun-8273?label=Follow&style=social)](https://github.com/tarun-8273?tab=follow) and if you are on a similar journey!
+
+###### ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Tarun_Goyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-goyal-137899194/)](https://www.linkedin.com/in/tarun-goyal-137899194/)
+
+
+
 ----------------------------------------------------------
 
 ##### Since 2020:
