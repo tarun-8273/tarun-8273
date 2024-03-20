@@ -27,7 +27,7 @@ Currently exploring: AWS Cloud, AI/ML, Tailwind CSS.
 </p>
 
 
-  <img align="right" alt="GIF" src="https://i.imgur.com/ZRJAQRB.gif" />
+  <<img align="right" alt="GIF" src="https://i.imgur.com/ZRJAQRB.gif" width="300" height="300"/>
   
 ### ✨ Quick Facts
 
