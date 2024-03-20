@@ -2,7 +2,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/tarun-goyal-137899194/ style="color: blue;">
+<a href="https://www.linkedin.com/in/tarun-goyal-137899194/" style="color: blue;">
   <img align="left" alt="Tarun's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" />
 </a>
 
