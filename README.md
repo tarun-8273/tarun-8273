@@ -1,13 +1,13 @@
-### Hi there 👋, I'm [Tarun](https://github.com/tarun-8273) 👨‍💻
+### Hi there 👋, I'm [Tarun Goyal](https://github.com/tarun-8273) 👨‍💻
 
 <br/>
 
-<a href="https://www.linkedin.com/in/tarun-goyal-137899194/">
+<a href="https://www.linkedin.com/in/tarun-goyal-137899194/ style="color: blue;">
   <img align="left" alt="Tarun's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" />
 </a>
 
 
-<a href="mailto:goyalt400@gmail.com">
+<a href="mailto:goyalt400@gmail.com" style="color: red;">
   <img align="left" alt="Tarun's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/gmail.svg" />
 </a>
 
@@ -66,11 +66,11 @@ Currently exploring: AWS Cloud, AI/ML, Tailwind CSS.
 
 _Since you don't want to leave my profile just yet! Here are some things you can do :_
 
-###### ❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Tarun_Goyal-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/tarun-goyal-137899194/)](https://www.linkedin.com/in/tarun-goyal-137899194/) or [![Gmail Badge](https://img.shields.io/badge/-goyalt400@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:goyalt400@gmail.com)](mailto:goyalt400@gmail.com)
+###### ❤️❤️❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Tarun_Goyal-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/tarun-goyal-137899194/)](https://www.linkedin.com/in/tarun-goyal-137899194/) or [![Gmail Badge](https://img.shields.io/badge/-goyalt400@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:goyalt400@gmail.com)](mailto:goyalt400@gmail.com)
 
-###### ❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/tarun-8273?label=Follow&style=social)](https://github.com/tarun-8273?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@Tarun_Goyal-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Tarun_Goyal0101)](https://twitter.com/Tarun_Goyal0101) and if you are on a similar journey!
+###### ❤️❤️❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/tarun-8273?label=Follow&style=social)](https://github.com/tarun-8273?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@Tarun_Goyal-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Tarun_Goyal0101)](https://twitter.com/Tarun_Goyal0101) and if you are on a similar journey!
 
-###### ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Tarun_Goyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-goyal-137899194/)](https://www.linkedin.com/in/tarun-goyal-137899194/)
+###### ❤️❤️❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Tarun_Goyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-goyal-137899194/)](https://www.linkedin.com/in/tarun-goyal-137899194/)
 
 
 
