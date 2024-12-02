@@ -17,7 +17,7 @@
 <br/>
 
 <p>
-A passionate DevOps- Frontend Developer 🚀 hailing from India. 
+A passionate Software Development Engineer - Frontend Developer 🚀 hailing from India. 
 Always immersed in coding projects or diving into new technologies!
 <br/>
 Stacks I have worked with: React, React Native JavaScript, TypeScript.
@@ -31,7 +31,7 @@ Currently exploring: AWS Cloud, AI/ML, Tailwind CSS.
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 Currently working as a DevOps Engineer- Frontend Developer
+- 👨🏽‍💻 Currently working as a Software Development Engineer - Frontend Developer
 - 🌱 Currently learning AWS and AI/ML
 <!--- 🤔 I’m looking for help for my future as a Data Scientist-->
 - 🔍 Curious about anything in the realm of JS, React, React Native Redux, or Firebase? Feel free to ask—I'm here to share insights and knowledge! 😄
