@@ -38,7 +38,7 @@ Currently exploring: AWS Cloud, AI/ML, Tailwind CSS.
 <!--- 🌙 Fun-Fact: My coding sessions often extend until the wee hours of the morning! 🌃 -->
 - 🎿 Hobbies: Reading books and blogs, Playing Cricket, Gaming
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tarun-goyal-137899194/)
-- 📝 Portfolio: [Portfolio](https://tarun-goyal-portfolio.vercel.app/)
+- 📝 [Portfolio](https://tarun-goyal-portfolio.vercel.app/)
 
 ### 🛠️ Languages and Tools:
 
