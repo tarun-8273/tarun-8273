@@ -22,7 +22,7 @@
 <tr>
 <td width="55%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=0E75B6&vCenter=true&width=440&height=30&lines=Building+fast+%26+delightful+UIs+%E2%9A%A1;Web+%2B+Mobile+with+React+%26+React+Native;Learning+AWS+Cloud+and+AI%2FML" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=0E75B6&vCenter=true&width=380&height=30&lines=Building+fast+%26+delightful+UIs+%E2%9A%A1;Web+%2B+Mobile+with+React+%26+React+Native;Learning+AWS+Cloud+and+AI%2FML" alt="Typing intro"/>
 
 I'm a **Software Development Engineer (Frontend)** from 🇮🇳 **India**, crafting fast, accessible and delightful experiences across web and mobile.
 
@@ -38,7 +38,7 @@ I'm a **Software Development Engineer (Frontend)** from 🇮🇳 **India**, craf
 </td>
 <td width="45%" valign="middle" align="center">
 
-<img src="https://i.imgur.com/ZRJAQRB.gif" alt="Coding" width="100%" height="420"/>
+<img src="https://i.imgur.com/ZRJAQRB.gif" alt="Coding" width="350"/>
 
 <sub><i>“Code is like humor — when you have to explain it, it’s bad.”</i></sub>
 
