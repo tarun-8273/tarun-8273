@@ -20,7 +20,7 @@
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=0E75B6&vCenter=true&width=440&height=30&lines=Building+fast+%26+delightful+UIs+%E2%9A%A1;Web+%2B+Mobile+with+React+%26+React+Native;Learning+AWS+Cloud+and+AI%2FML" alt="Typing intro"/>
 
@@ -36,9 +36,9 @@ I'm a **Software Development Engineer (Frontend)** from 🇮🇳 **India**, craf
 | 📫 **Reach me** | [LinkedIn](https://www.linkedin.com/in/tarun-goyal-137899194/) · [Email](mailto:goyalt400@gmail.com) · [Portfolio](https://tarun-goyal-portfolio.vercel.app/) |
 
 </td>
-<td width="42%" valign="middle" align="center">
+<td width="45%" valign="middle" align="center">
 
-<img src="https://i.imgur.com/ZRJAQRB.gif" alt="Coding" width="100%"/>
+<img src="https://i.imgur.com/ZRJAQRB.gif" alt="Coding" width="420"/>
 
 <sub><i>“Code is like humor — when you have to explain it, it’s bad.”</i></sub>
 
