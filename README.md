@@ -38,7 +38,7 @@ I'm a **Software Development Engineer (Frontend)** from 🇮🇳 **India**, craf
 </td>
 <td width="45%" valign="middle" align="center">
 
-<img src="https://i.imgur.com/ZRJAQRB.gif" alt="Coding" width="100%" height="340"/>
+<img src="https://i.imgur.com/ZRJAQRB.gif" alt="Coding" width="100%" height="420"/>
 
 <sub><i>“Code is like humor — when you have to explain it, it’s bad.”</i></sub>
 
