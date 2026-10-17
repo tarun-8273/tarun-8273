@@ -18,18 +18,33 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" src="https://i.imgur.com/ZRJAQRB.gif" width="360"/>
+<table>
+<tr>
+<td width="58%" valign="top">
 
-I'm a **Software Development Engineer (Frontend)** from 🇮🇳 India, passionate about building fast, accessible and delightful user experiences across web and mobile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=0E75B6&vCenter=true&width=440&height=30&lines=Building+fast+%26+delightful+UIs+%E2%9A%A1;Web+%2B+Mobile+with+React+%26+React+Native;Learning+AWS+Cloud+and+AI%2FML" alt="Typing intro"/>
 
-- 💼 Working as a **Software Development Engineer – Frontend**
-- ⚛️ Core stack: **React, React Native, JavaScript, TypeScript**
-- 🌱 Currently exploring **AWS Cloud, AI/ML and Tailwind CSS**
-- 💬 Ask me about **JavaScript, React, React Native, Redux or Firebase**
-- 🎯 Hobbies: reading books & blogs, cricket 🏏 and gaming 🎮
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tarun-goyal-137899194/) or [email](mailto:goyalt400@gmail.com)
+I'm a **Software Development Engineer (Frontend)** from 🇮🇳 **India**, crafting fast, accessible and delightful experiences across web and mobile.
 
-<br clear="right"/>
+| | |
+|:--|:--|
+| 💼 **Role** | Software Development Engineer – Frontend |
+| ⚛️ **Core stack** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| 🌱 **Exploring** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| 💬 **Ask me about** | JavaScript · React · React Native · Redux · Firebase |
+| 🎯 **Off the keyboard** | 📚 Books & blogs · 🏏 Cricket · 🎮 Gaming |
+| 📫 **Reach me** | [LinkedIn](https://www.linkedin.com/in/tarun-goyal-137899194/) · [Email](mailto:goyalt400@gmail.com) · [Portfolio](https://tarun-goyal-portfolio.vercel.app/) |
+
+</td>
+<td width="42%" valign="middle" align="center">
+
+<img src="https://i.imgur.com/ZRJAQRB.gif" alt="Coding" width="100%"/>
+
+<sub><i>“Code is like humor — when you have to explain it, it’s bad.”</i></sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
