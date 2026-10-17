@@ -9,7 +9,7 @@
   <a href="https://twitter.com/Tarun_Goyal0101"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=tarun-8273&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=tarun-8273.tarun-8273&left_text=Profile%20views&left_color=%23555&right_color=%230e75b6" alt="Profile views"/>
 <a href="https://github.com/tarun-8273?tab=followers"><img src="https://img.shields.io/github/followers/tarun-8273?label=Followers&style=social" alt="GitHub followers"/></a>
 
 </div>
